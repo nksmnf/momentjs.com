@@ -4,7 +4,7 @@ title: Node.js
 
 
 ```
-npm install moment
+npm install --save moment
 ```
 
 ```javascript
